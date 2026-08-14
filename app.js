@@ -124,9 +124,9 @@ function reset(){
 }
 function play(){
   if(!audio.src){alert("Audio for this topic is missing. Put the MP3 file in the audio folder with the required name (for example audio/01.mp3).");return}
-  if(attempts>=2)return;
-  attempts++;document.getElementById("attempts").textContent=`Play ${attempts}/2`;
-  audio.currentTime=0;audio.play();if(attempts>=2)document.getElementById("play").disabled=true;
+  if(attempts>=10)return;
+  attempts++;document.getElementById("attempts").textContent=`Play ${attempts}/10`;
+  audio.currentTime=0;audio.play();if(attempts>=10)document.getElementById("play").disabled=true;
 }
 function dots(){
   const box=document.getElementById("dots");box.innerHTML="";
