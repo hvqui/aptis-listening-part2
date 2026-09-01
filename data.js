@@ -617,5 +617,112 @@ const TOPICS = [
       "Give away used items",
       "In the fitness centre"
     ]
+  },
+  {
+    "id": 13,
+    "title": "Visiting a new museum in town",
+    "speakers": [
+      {
+        "speaker": "A",
+        "text": "I expected rows of objects behind glass, so the museum surprised me. At one display, I moved a tablet over an old ship model and watched sailors appear on the screen. In another room, headphones recreated the sounds of a crowded nineteenth-century market. The paintings were impressive, of course, but I spent the longest at the interactive tables, trying different languages and zooming into tiny details. That digital side of the museum turned what could have been a visit into something genuinely exciting.",
+        "answer": "Enjoyed the rise of technology",
+        "highlights": [
+          "moved a tablet",
+          "headphones recreated the sounds",
+          "interactive tables",
+          "digital side"
+        ]
+      },
+      {
+        "speaker": "B",
+        "text": "I nearly postponed the museum trip because I had a dentist appointment across town. Still, I thought I could squeeze in one gallery before leaving. I scanned the map, hurried past the café, and stopped only long enough to photograph the enormous whale skeleton. When the announcement said the next guided tour would begin in twenty minutes, I was already checking my watch. My friends stayed for the ancient coins exhibition, but I was back outside before they had even reached the second floor.",
+        "answer": "Finished the visit quickly",
+        "highlights": [
+          "squeeze in one gallery",
+          "hurried past",
+          "checking my watch",
+          "back outside before they had even reached the second floor"
+        ]
+      },
+      {
+        "speaker": "C",
+        "text": "My cousin complained that the museum was too crowded, and she was right—we fought for the space exhibition and missed the final planetarium show. Even so, the few rooms we managed to enter were excellent. I kept noticing doors marked 'Members only' and posters for an exhibition opening next month. On the bus home, I checked the museum website and saved the date. One afternoon clearly wasn't enough, so I've already persuaded my brother to come back with me.",
+        "answer": "Wants to visit again",
+        "highlights": [
+          "saved the date",
+          "One afternoon clearly wasn't enough",
+          "persuaded my brother to come back with me"
+        ]
+      },
+      {
+        "speaker": "D",
+        "text": "The building looked simple from outside, but inside it was a maze. I followed a blue arrow for 'Local History,' went through two glass doors and somehow arrived back beside the dinosaur model. A guard pointed me upstairs, yet the lift opened in the modern art wing. By then, my sister had sent three messages asking where I was. I finally found her after asking at the information desk. I saw more corridors than exhibits that afternoon.",
+        "answer": "Got lost during the visit",
+        "highlights": [
+          "inside it was a maze",
+          "arrived back beside",
+          "lift opened in the modern art wing",
+          "asking where I was",
+          "saw more corridors than exhibits"
+        ]
+      }
+    ],
+    "distractors": [
+      "When travel to the school",
+      "Don't have time to read"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Reading books",
+    "speakers": [
+      {
+        "speaker": "A",
+        "text": "At home, my phone always wins. On the school bus, however, the signal disappears through two villages, so I open a book instead. The journey lasts about thirty-five minutes—long enough for a chapter, short enough that I rarely become tired of it. I keep a paperback in the front pocket of my bag and leave my textbooks elsewhere. Most of my voluntary reading now happens between my stop and the school gates.",
+        "answer": "When travel to the school",
+        "highlights": [
+          "On the school bus",
+          "journey lasts about thirty-five minutes",
+          "between my stop and the school gates"
+        ]
+      },
+      {
+        "speaker": "B",
+        "text": "Three unopened novels sit beside my bed, each bought with sincere plans. Then homework runs late, football practice moves to an extra evening, and my younger brother needs help. When I finally lie down, reading two pages feels impossible. Weekends are filled with family errands and friends. I still like books and keep collecting recommendations; what I lack is a free, awake hour in which to enjoy them.",
+        "answer": "Don't have time to read",
+        "highlights": [
+          "unopened novels sit",
+          "homework runs late",
+          "reading two pages feels impossible",
+          "lack is a free, awake hour"
+        ]
+      },
+      {
+        "speaker": "C",
+        "text": "Reading on transport makes me dizzy, and the living room television interrupts every sentence. My bed solves both problems. I prop up the pillows, use a small lamp, and read until my eyes begin closing. Sometimes that is ten minutes; on holidays it can be two hours. The routine also helps me stop looking at screens before sleep. My bedroom is not the most imaginative location, but it is where books actually get finished.",
+        "answer": "On their beds",
+        "highlights": [
+          "My bed solves both problems",
+          "prop up the pillows",
+          "before sleep",
+          "My bedroom"
+        ]
+      },
+      {
+        "speaker": "D",
+        "text": "I understand why people love novels, and I enjoy a good story when a teacher assigns one. Free time is different. I would rather meet friends for basketball, repair my bike, or watch a match. Reading asks me to sit still after a whole day at a desk, which feels like more school. Books are not unpleasant; they simply lose whenever I can choose an activity with movement and other people.",
+        "answer": "Prefer another activity",
+        "highlights": [
+          "rather meet friends for basketball",
+          "repair my bike",
+          "watch a match",
+          "choose an activity with movement and other people"
+        ]
+      }
+    ],
+    "distractors": [
+      "Enjoyed the rise of technology",
+      "Got lost during the visit"
+    ]
   }
 ];
