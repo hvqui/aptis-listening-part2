@@ -20,7 +20,9 @@ const AUDIO_PATHS = {
   9: "audio/09.mp3",
   10: "audio/10.mp3",
   11: "audio/11.mp3",
-  12: "audio/12.mp3"
+  12: "audio/12.mp3",
+  13: "audio/13.mp3",
+  14: "audio/14.mp3"
 };
 
 let index=0, attempts=0;
